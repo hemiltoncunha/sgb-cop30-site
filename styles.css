@@ -155,4 +155,15 @@ button[aria-label="Anterior"] {
   .br-footer .br-list.horizontal{ grid-template-columns: 1fr; }
 }
 
+.agenda-line {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 4px 0;
+}
+.agenda-line svg {
+  flex-shrink: 0;
+  fill: #007b83; /* cor temática SGB */
+}
+
 
