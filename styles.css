@@ -166,4 +166,22 @@ button[aria-label="Anterior"] {
   fill: #007b83; /* cor temática SGB */
 }
 
+a {
+  text-decoration: none;
+  color: #003366; /* cor padrão do link */
+  transition: all 0.2s ease-in-out;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #0066cc; /* cor quando o mouse passa por cima */
+}
+
+li {
+  margin-bottom: 10px;
+}
+ 
+ul.project-links {
+  padding-left: 26px;
+}
 
