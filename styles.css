@@ -185,3 +185,11 @@ ul.project-links {
   padding-left: 26px;
 }
 
+.titulo_agenda {
+  font-size: 32px;
+  border-bottom: 1px solid #010912; /* cor e espessura da linha */
+  padding-bottom: 1px;              /* espaço entre texto e linha */
+  width: 100%;                      /* ocupa toda a largura da coluna/pai */
+  display: block;                   /* garante o comportamento de bloco */
+} 
+
