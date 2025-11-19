@@ -177,6 +177,11 @@ a:hover {
   color: #5d6de5; /* cor quando o mouse passa por cima */
 }
 
+a.btn:hover {
+  text-decoration: underline;
+  color: #dae55d; /* cor quando o mouse passa por cima */
+}
+
 li {
   margin-bottom: 10px;
 }
